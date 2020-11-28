@@ -3,7 +3,7 @@ package personajes;
 
 public class ClasePorBorrar {
     
-    public static int[][] multiplicación (int [][] A, int [][] B){
+    public static int[][] product (int [][] A, int [][] B){
    // columnas de la matriz A
    int n= A[0].length;
    // filas de la matriz A
