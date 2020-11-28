@@ -21,7 +21,7 @@ import javax.media.opengl.glu.GLU;
 public class VideoJuego implements GLEventListener {
 
     public static void main(String[] args) {
-        Frame frame = new Frame("Nuevo nombre");
+        Frame frame = new Frame("Nuevo cambio");
         GLCanvas canvas = new GLCanvas();
 
         canvas.addGLEventListener(new VideoJuego());
