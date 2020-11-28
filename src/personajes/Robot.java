@@ -1,11 +1,11 @@
 
 package personajes;
-
+//comentario
 import com.sun.opengl.util.texture.Texture;
 import javax.media.opengl.GL;
 import javax.media.opengl.glu.GLU;
 import javax.media.opengl.glu.GLUquadric;
-import jdk.nashorn.internal.objects.NativeArray;
+
 public class Robot {
     private static final int SLICES=40;
     private static final int STACKS=40;
