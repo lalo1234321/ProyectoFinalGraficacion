@@ -19,7 +19,7 @@ import javax.media.opengl.glu.GLU;
  * This version is equal to Brian Paul's version 1.2 1999/10/21
  */
 public class VideoJuego implements GLEventListener {
-
+int x =0;
     public static void main(String[] args) {
         Frame frame = new Frame("Nuevo cambio");
         GLCanvas canvas = new GLCanvas();
